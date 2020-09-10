@@ -11,7 +11,7 @@ A Fintech Case Study
 
 # H1
 
-![some image](image.jpg)
+![some image](images/image.jpg)
 
 ## this is a description
 
